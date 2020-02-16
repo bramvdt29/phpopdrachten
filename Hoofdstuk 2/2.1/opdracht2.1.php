@@ -6,8 +6,10 @@
  * File: index.php
  */
 ?>
+<style>
+    <?php include '../../css/style.css'; ?>
+</style>
 <body>
-<?php include '../../css/style.css'; ?>
 <header>
     <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
 </header>
@@ -20,7 +22,7 @@
                     <a href="opdracht2.1.php">Opdracht 2.1</a>
                 </li>
                 <li>
-                    <a href="">Opdracht 2.2</a>
+                    <a href="../2.2/opdracht2.2.php">Opdracht 2.2</a>
                 </li>
             </ul>
         </li>

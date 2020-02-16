@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    text-align: right;
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+aside
+{
+    background-color: beige;
+    width: 40%;
+    padding-left: 30px;
+}
+
+aside ul
+{
+    padding-left: 40px;
+}
+
+#wrapper
+{
+    display: inline-block;
+    width: 55%;
+    float: right;
+}

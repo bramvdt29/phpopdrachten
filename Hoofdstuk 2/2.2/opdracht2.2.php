@@ -44,6 +44,19 @@
                 </li>
             </ul>
         </li>
+        <li>Hoofdstuk 3
+            <ul>
+                <li>
+                    <a href="../../Hoofdstuk%203/3.1/opdracht3.1.php">Opdracht 3.1</a>
+                </li>
+                <li>
+
+                </li>
+                <li>
+
+                </li>
+            </ul>
+        </li>
     </ul>
 </aside>
 <main id="wrapper">

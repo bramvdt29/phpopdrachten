@@ -6,6 +6,10 @@
  * File: index.php
  */
 ?>
+<!doctype html>
+<head>
+    <title></title>
+</head>
 <style>
     <?php include 'css/style.css'; ?>
 </style>
@@ -23,6 +27,19 @@
                     </li>
                     <li>
                         <a href="Hoofdstuk%202/2.2/opdracht2.2.php">Opdracht 2.2</a>
+                    </li>
+                </ul>
+            </li>
+            <li>Hoofdstuk 3
+                <ul>
+                    <li>
+                        <a href="Hoofdstuk%203/3.1/opdracht3.1.php">Opdracht 3.1</a>
+                    </li>
+                    <li>
+
+                    </li>
+                    <li>
+
                     </li>
                 </ul>
             </li>

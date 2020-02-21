@@ -37,10 +37,10 @@
                     <a href="opdracht3.1.php">Opdracht 3.1</a>
                 </li>
                 <li>
-
+                    <a href="../3.2/opdracht3.2.php">Opdracht 3.3</a>
                 </li>
                 <li>
-
+                    <a href="../3.3/opdracht3.3.php">Opdracht 3.3</a>
                 </li>
             </ul>
         </li>

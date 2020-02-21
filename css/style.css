@@ -31,3 +31,14 @@ aside ul
     width: 55%;
     float: right;
 }
+
+
+#stop
+{
+    color: red;
+}
+
+#door
+{
+    color: green;
+}

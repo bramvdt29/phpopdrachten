@@ -14,9 +14,9 @@
     <?php include 'css/style.css'; ?>
 </style>
 <body>
-    <header>
-        <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
-    </header>
+    <?php
+    include 'includes/header.php'
+    ?>
     <aside>
         <h2>Menu</h2>
         <ul>
@@ -36,10 +36,10 @@
                         <a href="Hoofdstuk%203/3.1/opdracht3.1.php">Opdracht 3.1</a>
                     </li>
                     <li>
-
+                        <a href="Hoofdstuk%203/3.2/opdracht3.2.php">Opdracht 3.2</a>
                     </li>
                     <li>
-
+                        <a href="Hoofdstuk%203/3.3/opdracht3.3.php">Opdracht 3.3</a>
                     </li>
                 </ul>
             </li>
@@ -47,6 +47,10 @@
     </aside>
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
+
+        <?php
+        include("includes/footer.php");
+        ?>
     </main>
 </body>
 
